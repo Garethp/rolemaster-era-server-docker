@@ -1,6 +1,6 @@
-# Rollmaster ERA Server
+# Rolemaster ERA Server
 
-This is a small docker container to host the Linux version of the Rollmaster ERA Software as a server using Docker
+This is a small docker container to host the Linux version of the Rolemaster ERA Software as a server using Docker
 
 ## Required Steps
 
